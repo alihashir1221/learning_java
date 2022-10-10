@@ -1,0 +1,4 @@
+ Write a Java program to accept two integers and check whether they are equal or not
+Test Data : 15 15
+Expected Output :
+Number1 and Number2 are equal

@@ -1,0 +1,1 @@
+Write a Java Program to check wehther a character is alphabet or not.
