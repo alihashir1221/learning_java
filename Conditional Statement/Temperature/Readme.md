@@ -1,0 +1,1 @@
+Write a Java program to read temperature in centigrade and display a suitable message according to temperature state below :
