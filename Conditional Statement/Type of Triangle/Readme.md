@@ -1,0 +1,1 @@
+Write a Java program to check whether a triangle is Equilateral, Isosceles or Scalene
