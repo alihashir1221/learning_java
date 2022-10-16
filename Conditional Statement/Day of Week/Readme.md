@@ -1,0 +1,1 @@
+Write a program in Java to read any day number in integer and display day name in the word(using).
