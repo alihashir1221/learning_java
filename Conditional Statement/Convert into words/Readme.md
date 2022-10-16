@@ -1,0 +1,1 @@
+Write a program in Java to read any digit(0-9), display in the word.
