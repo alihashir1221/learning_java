@@ -1,0 +1,1 @@
+Write Java C program to check whether a triangle can be formed by the given value for the angles.
