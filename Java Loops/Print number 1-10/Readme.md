@@ -1,0 +1,1 @@
+Write a for loop program to print number from 1 to 10.
