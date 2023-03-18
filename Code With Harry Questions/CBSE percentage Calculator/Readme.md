@@ -1,0 +1,1 @@
+WAP to calculate percentage of a given student in CBSE board exam. His marks from 5 subjects must be taken as input from the keyboard. (Marks oyt of 100)
