@@ -1,0 +1,1 @@
+Write a program in C to read 10 numbers from the keyboard and find their sum and average.
