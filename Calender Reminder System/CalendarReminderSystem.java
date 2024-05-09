@@ -1,4 +1,20 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class Reminder{
+    private String date;
+    private String reminderText;
+    public Reminder(String date, String remiderText){
+        this.date = date;
+        this.reminderText = reminderText;
+    }
+    public String getDate(){
+        return date;
+    }
+    public String getRemiderText(){
+        return reminderText;
+    }
+}
 
 public class CalendarReminderSystem{
     public static void main (String[] args){
